@@ -16,9 +16,6 @@ Route::get('/', function () {
 });
 
 
-
-
-
 Route::get('/erefff', function () {
     return view('welcome');
 });
