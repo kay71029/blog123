@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 
-Route::get('/ereffdddf', function () {
+Route::get('/ereff777dddf', function () {
     return view('welcome');
 });
 
